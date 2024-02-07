@@ -1,4 +1,4 @@
-**Treine me** Segundo projeto Rocketseat
+**Treine me** - Segundo projeto Rocketseat
 
 ## Descrição
 
